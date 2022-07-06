@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "1. [Project Description](#project-description)\r 2. [Usage](#usage)\r 3. [Built With](#built-with)\r 4. [Author](#author)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Antics/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-Antics/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Sam-Antics/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
